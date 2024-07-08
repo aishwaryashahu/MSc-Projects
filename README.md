@@ -5,10 +5,6 @@
 ### School: Computer Science
 ### Academic Year: 2023-24
 
-### Student Information
-- **Name**: Aishwarya Shahu
-- **Student ID**: 20607987
-
 ## Project Title
 **Fundamentals of Information Visualization**
 
